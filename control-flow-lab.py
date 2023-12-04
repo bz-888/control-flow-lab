@@ -186,6 +186,10 @@ for term in range(50):
 # After setting the likely season, you can use another if...elif...else statement to "adjust" if
 # the day number falls within a certain range.
 
+print("================================================================")
+print("Exercise 06")
+print("================================================================")
+
 month_str = input("Enter the month of the year (Jan - Dec): ")
 
 all_months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
